@@ -1,9 +1,8 @@
 #include <iostream>
-
 using namespace std;
-
+#include "solutii.h";
 int main()
 {
-    cout << "Hello world!" << endl;
-    return 0;
+   solutie24();
+   return 0;
 }

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1780930573 source:c:\mycode\initiere\corectare-tema-matrici-2\main.cpp
+	<iostream>
+	"solutii.h"
+
+1780929615 c:\mycode\initiere\corectare-tema-matrici-2\solutii.h
+	"functii.h"
+
+1780930429 c:\mycode\initiere\corectare-tema-matrici-2\functii.h
+	<iostream>
+	<fstream>
+
